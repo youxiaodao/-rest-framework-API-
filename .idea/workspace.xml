@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cf1adac-ec2c-4bb3-8be2-9da11a6ab407" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="306128274">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="api_account" value="4" />
+          <entry key="api_course" value="5" />
+          <entry key="api_pricepolicy" value="1" />
+          <entry key="api_userauthtoken" value="1" />
+          <entry key="how_to_make_a_luffy" value="1" />
+          <entry key="py" value="54" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="11" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="54" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="63" />
+          <entry key="dummy" value="4" />
+          <entry key="how_to_make_a_luffy" value="633" />
+          <entry key="py" value="10904" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="637" />
+          <entry key="Python" value="10904" />
+          <entry key="Scratch" value="63" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/how_to_make_a_luffy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>current_user_keys_list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>current_user_shopping_keys_list</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/luffy_start_new/urls.py" />
+        <option value="$PROJECT_DIR$/api/pagination/my_paginations.py" />
+        <option value="$PROJECT_DIR$/api/serializers/course_serializers.py" />
+        <option value="$PROJECT_DIR$/api/admin.py" />
+        <option value="$PROJECT_DIR$/api/views/account.py" />
+        <option value="$PROJECT_DIR$/utils/exception.py" />
+        <option value="$PROJECT_DIR$/utils/exceptions.py" />
+        <option value="$PROJECT_DIR$/utils/my_exceptions.py" />
+        <option value="$PROJECT_DIR$/utils/my_response.py" />
+        <option value="$PROJECT_DIR$/api/authentication/my_authentication.py" />
+        <option value="$PROJECT_DIR$/api/views/shopping_car.py" />
+        <option value="$PROJECT_DIR$/how_to_make_a_luffy" />
+        <option value="$PROJECT_DIR$/api/views/course.py" />
+        <option value="$PROJECT_DIR$/luffy_start_new/settings.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/api/views/payment.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/api/views/order.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="359" />
+    <option name="width" value="1318" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_start_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_start_new" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="luffy_start_new" type="Python.DjangoServer" factoryName="Django server" editBeforeRun="true">
+      <module name="luffy_start_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="luffy_start_new.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\20181112\envs\firstvir\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf1adac-ec2c-4bb3-8be2-9da11a6ab407" name="Default Changelist" comment="" />
+      <created>1542776106062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542776106062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18982808" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36877525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143266" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49856734" weight="0.4306864" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49928367" weight="0.41453567" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1747851" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django/utils/version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9dcf0bc6-087a-4312-95c9-600c4be31fde/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_start_new/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-961">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django/core/paginator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="308" column="44" selection-start-line="308" selection-start-column="44" selection-end-line="308" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="845" column="33" selection-start-line="845" selection-start-column="33" selection-end-line="845" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../envs/firstvir/Lib/site-packages/rest_framework/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="197" column="12" lean-forward="true" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django/contrib/admin/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/pagination/my_paginations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers/course_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/authtoken/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/uuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2939">
+          <caret line="620" column="4" selection-start-line="620" selection-start-column="4" selection-end-line="620" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="53" column="67" lean-forward="true" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9dcf0bc6-087a-4312-95c9-600c4be31fde/schema/main/table/api_userauthtoken">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9dcf0bc6-087a-4312-95c9-600c4be31fde/schema/main/table/api_account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/django_redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/my_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-645839530/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="893" column="12" selection-start-line="893" selection-start-column="12" selection-end-line="893" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="381" column="35" selection-start-line="381" selection-start-column="35" selection-end-line="381" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9dcf0bc6-087a-4312-95c9-600c4be31fde/schema/main/table/api_pricepolicy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9dcf0bc6-087a-4312-95c9-600c4be31fde/schema/main/table/api_course">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/authentication/my_authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="69" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_start_new/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3725">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5800">
+          <caret line="504" column="8" selection-start-line="504" selection-start-column="8" selection-end-line="504" selection-end-column="8" />
+          <folding>
+            <element signature="e#488#511#0" />
+            <element signature="e#537#568#0" />
+            <element signature="e#783#806#0" />
+            <element signature="e#832#863#0" />
+            <element signature="e#904#1906#0" />
+            <element signature="e#1541#1580#0" />
+            <element signature="e#1834#1850#0" />
+            <element signature="e#1876#1906#0" />
+            <element signature="e#1942#2462#0" />
+            <element signature="e#2388#2404#0" />
+            <element signature="e#2430#2462#0" />
+            <element signature="e#2502#2881#0" />
+            <element signature="e#2773#2822#0" />
+            <element signature="e#2848#2881#0" />
+            <element signature="e#4077#4094#0" />
+            <element signature="e#4499#5335#0" />
+            <element signature="e#5248#5273#0" />
+            <element signature="e#5299#5335#0" />
+            <element signature="e#5382#5893#0" />
+            <element signature="e#5714#5767#0" />
+            <element signature="e#5793#5893#0" />
+            <element signature="e#5935#6337#0" />
+            <element signature="e#6202#6226#0" />
+            <element signature="e#6252#6337#0" />
+            <element signature="e#6379#6922#0" />
+            <element signature="e#6748#6828#0" />
+            <element signature="e#6861#6922#0" />
+            <element signature="e#6964#7926#0" />
+            <element signature="e#7767#7851#0" />
+            <element signature="e#7884#7926#0" />
+            <element signature="e#7963#8931#0" />
+            <element signature="e#8774#8853#0" />
+            <element signature="e#8886#8931#0" />
+            <element signature="e#8934#8969#0" />
+            <element signature="e#11963#12067#0" />
+            <element signature="e#12100#12186#0" />
+            <element signature="e#12300#12473#0" />
+            <element signature="e#12392#12424#0" />
+            <element signature="e#12457#12473#0" />
+            <element signature="e#12509#14236#0" />
+            <element signature="e#14131#14161#0" />
+            <element signature="e#14194#14236#0" />
+            <element signature="e#14275#14668#0" />
+            <element signature="e#14568#14668#0" />
+            <element signature="e#14704#15441#0" />
+            <element signature="e#15363#15382#0" />
+            <element signature="e#15408#15441#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/shopping_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="120" column="18" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
+          <folding>
+            <element signature="e#114#125#0" expanded="true" />
+            <marker date="1543026783891" expanded="true" signature="647:746" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/my_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <marker date="1542974187646" expanded="true" signature="163:168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#113#153#0" expanded="true" />
+            <marker date="1543027184328" expanded="true" signature="546:552" ph="..." />
+            <marker date="1543027184328" expanded="true" signature="1384:1385" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#482#1851#1" />
+            <element signature="e#2640#6555#0" />
+            <element signature="e#2645#2660#0" />
+            <element signature="e#2673#2933#1" />
+            <element signature="e#2326#2367#0" />
+            <element signature="e#3327#4455#0" />
+            <element signature="e#3345#3424#0" />
+            <element signature="e#3777#4144#0" />
+            <element signature="e#4954#6172#0" />
+            <element signature="e#5063#5241#0" />
+            <element signature="e#5447#5606#0" />
+            <element signature="e#5799#5902#0" />
+            <element signature="e#6151#6555#0" />
+            <element signature="e#6653#6699#0" />
+            <element signature="e#6946#7082#1" />
+            <element signature="e#7351#8786#0" />
+            <element signature="e#7767#8334#0" />
+            <element signature="e#8070#8173#0" />
+            <element signature="e#8325#8446#0" />
+            <element signature="e#8624#8719#0" />
+            <element signature="e#7164#7206#0" />
+            <element signature="e#9089#9219#2" />
+            <element signature="e#9539#10518#0" />
+            <element signature="e#9714#10115#0" />
+            <element signature="e#9723#9957#0" />
+            <element signature="e#9806#9892#0" />
+            <element signature="e#10151#10375#0" />
+            <element signature="e#10516#10562#0" />
+            <marker date="1543047833470" expanded="true" signature="475:10753" ph="..." />
+            <marker date="1543047833470" expanded="true" signature="6900:9052" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#151#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how_to_make_a_luffy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
